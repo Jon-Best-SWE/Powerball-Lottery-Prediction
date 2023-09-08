@@ -65,7 +65,7 @@ To run the script and predict winning percentages:
 ```bash
 pip install pandas scikit-learn
 ```
-3. Place the POWERBALL-from_0001-01-01_to_2023-07-15_MOD.csv file in the same directory as the script.
+3. Place the `POWERBALL-from_0001-01-01_to_2023-07-15_MOD.csv` file in the same directory as the script.
 
 4. A GUI window will appear. Enter five winning numbers separated by hyphens in the input field.
 
