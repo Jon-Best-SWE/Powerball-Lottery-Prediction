@@ -67,9 +67,14 @@ pip install pandas scikit-learn
 ```
 3. Place the `POWERBALL-from_0001-01-01_to_2023-07-15_MOD.csv` file in the same directory as the script.
 
-4. A GUI window will appear. Enter five winning numbers separated by hyphens in the input field.
+4. Run the script:
+```bash
+python Jon_Best_Powerball_Prediction_Interface_Code.py
+```
 
-5. Click the "Predict Winning Percentage" button to see the predicted winning percentage in a pop-up message.
+5. A GUI window will appear. Enter five winning numbers separated by hyphens in the input field.
+
+6. Click the "Predict Winning Percentage" button to see the predicted winning percentage in a pop-up message.
 
 Please note that this script is for educational purposes and uses a simplified approach to predict winning percentages. Actual lottery outcomes are influenced by various factors and are inherently random
 
