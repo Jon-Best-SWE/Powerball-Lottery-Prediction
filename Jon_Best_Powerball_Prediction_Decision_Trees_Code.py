@@ -7,9 +7,7 @@ Created on Sun Jul 14 17:02:45 2023
 
 # Jon Best
 # 7/16/2023
-# CS379 - Machine Learning
-# Applied Machine Learning  
-# The purpose of this Python code is to implement the both the Decision Tree Classifier, the Decision Tree Regressor, and the Random
+# The purpose of this Python code is to implement both the Decision Tree Classifier, the Decision Tree Regressor, and the Random
 # Forest Regressor models with the Information Gain splitting approach to determine accuracy and predict the most likely winning numbers,
 # Power Play number, Powerball number, jackpot amount, amount won, city, and store from a history of Powerball results.
  
@@ -24,7 +22,7 @@ Created on Sun Jul 14 17:02:45 2023
 # Date: 2023
 # Availability: https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python
 #
-# Title: Create your first Text Generator with LSTM in few minutes
+# Title: Create your first Text Generator with LSTM in a few minutes
 # Author: Editorial Team
 # Date: 2020
 # Availability: https://towardsai.net/p/deep-learning/create-your-first-text-generator-with-lstm-in-few-minutes#83cd
