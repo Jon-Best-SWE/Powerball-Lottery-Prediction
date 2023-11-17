@@ -7,10 +7,8 @@ Created on Sun Jul 14 17:02:45 2023
 
 # Jon Best
 # 7/16/2023
-# CS379 - Machine Learning
-# Applied Machine Learning  
 # The purpose of this Python code is to create a user interface where a user 
-# can input five different numbers and retrieve a predicting winning percentage.
+# can input five different numbers and retrieve a predicted winning percentage.
 
 #***************************************************************************************
 # Title: Leveraging AI and Python for Lotto Number Prediction
